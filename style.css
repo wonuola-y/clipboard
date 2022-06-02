@@ -39,8 +39,11 @@ img{
 .logo{
     justify-self: center;
     margin-top: 50px;
-    width: var(--width-one);
+    width: 15%;
 
+}
+.top{
+    font-size: 30px;
 }
 button{
     padding: 15px;

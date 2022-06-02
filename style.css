@@ -24,6 +24,9 @@ div{
 img{
     width: 100%;
 }
+.first{
+margin: 0;
+}
 .first-section{
     display: flex;
     flex-direction: column;

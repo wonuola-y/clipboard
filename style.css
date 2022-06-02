@@ -68,6 +68,13 @@ button{
     
 }
 h1{
+    font-size: 24px;
+    font-family: 'Bai Jamjuree', sans-serif;
+    color: var(--color-three);
+   width: 95%;
+   font-weight: 600;
+}
+h2{
     font-size: 18px;
     font-family: 'Bai Jamjuree', sans-serif;
     color: var(--color-three);

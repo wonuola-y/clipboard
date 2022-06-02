@@ -25,7 +25,7 @@ img{
     width: 100%;
 }
 .first{
-margin: 0;
+    margin: 0;
 }
 .first-section{
     display: flex;
@@ -68,6 +68,7 @@ button{
     
 }
 h1{
+    font-size: 18px;
     font-family: 'Bai Jamjuree', sans-serif;
     color: var(--color-three);
    width: 95%;
@@ -81,6 +82,7 @@ p{
 .text-third-section{
     padding: var(--value-three);
     margin: var(--value-two) auto;
+    
 }
 .fourth-section{
     margin: var(--value-two) 20px;
@@ -153,12 +155,24 @@ ul{
         justify-content: center;
         display: flex;
         margin-top: 20px;
+
     }
    
     .text-third-section{
         margin: 0;
-      
+        justify-content: flex-start;
 
+    }
+    .third{
+        text-align: left;
+    }
+    .computer{
+        width: 100%;
+    }
+    .img-computer{
+        position: relative;
+        right: 10px;
+        text-align: left;
     }
     .short-text{
         max-width: 25%;
